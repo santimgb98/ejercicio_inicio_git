@@ -5,7 +5,7 @@
 }
 
 .item1{
-    background: grey;
+    background: rgb(255, 0, 0);
     color:white;
     grid-column-start: 1;
     grid-column-end: 4;
@@ -37,7 +37,7 @@
 }
 
 .item4{
-    background: grey;
+    background: rgb(115, 255, 0);
     color:white;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -47,7 +47,7 @@
     margin: 1px;
 }
 .item5{
-    background: grey;
+    background: rgb(251, 255, 1);
     color:white;
     grid-column-start: 1;
     grid-column-end: 2;
@@ -68,7 +68,7 @@
 }
 
 .item7{
-    background: grey;
+    background: rgb(248, 0, 0);
     color:white;
     grid-column-start: 3;
     grid-column-end: 4;
